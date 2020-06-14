@@ -1,0 +1,9 @@
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.deps.json
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.dll
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.csproj.CoreCompileInputs.cache
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.AssemblyInfoInputs.cache
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.AssemblyInfo.cs
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.pdb
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.dll
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.pdb
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.csprojAssemblyReference.cache
