@@ -1,0 +1,14 @@
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngineDAL.dll
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.AssemblyInfo.cs
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngine.deps.json
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngine.runtimeconfig.json
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngine.runtimeconfig.dev.json
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngine.dll
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngine.pdb
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.2\PromotionEngineDAL.pdb
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.csproj.CopyComplete
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.dll
+C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.2\PromotionEngine.pdb
