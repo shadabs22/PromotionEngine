@@ -7,3 +7,12 @@ C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\net
 C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.dll
 C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.pdb
 C:\Users\shadabs\Desktop\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.csprojAssemblyReference.cache
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.deps.json
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.dll
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\bin\Debug\netstandard2.0\PromotionEngineDAL.pdb
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.csprojAssemblyReference.cache
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.csproj.CoreCompileInputs.cache
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.AssemblyInfoInputs.cache
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.AssemblyInfo.cs
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.dll
+D:\Shadab\Maersk\PromotionEngine\PromotionEngineDAL\obj\Debug\netstandard2.0\PromotionEngineDAL.pdb
