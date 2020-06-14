@@ -56,6 +56,7 @@ namespace PromotionEngine
             {
                 Console.WriteLine("No SKU available.");
             }
+            Console.ReadLine();
         }
     }
 }
