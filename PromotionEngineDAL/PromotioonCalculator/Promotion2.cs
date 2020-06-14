@@ -22,6 +22,15 @@ namespace PromotionEngineDAL.PromotioonCalculator
                     //return (quotient * 45) + ((remainder) * 30);
                 }
             }
+            else
+            {
+                if (list.Where(f => f.SKUID == 2 && f.Quantity > 0).Count() == 0)// && list.Where(f => f.SKUID == 4 && f.Quantity > 0).Count() > 0)
+                {
+                    var skuB = list.Where(f => f.SKUID == 2).First();
+                    int skuBIndex = list.IndexOf(skuB);
+                    list[skuBIndex].Price = 0;
+                }
+            }
             return list;
         }
     }
